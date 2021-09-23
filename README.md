@@ -1,3 +1,2 @@
 # quotesPlayer
- Player Quotes with Python
  README coming soon...
